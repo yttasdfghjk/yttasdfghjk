@@ -31,9 +31,9 @@ I enjoy the intersection of modern technologies and am currently contributing to
 | **Development**      | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)  |
 
 | **web 2.0**| ![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge) ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge) ![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge) ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)   
-
+                                                                                                                                                                                                                    |
 | **web 3.0**| ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge) ![Web3.js Badge](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
-
+                                                                                                                                                                                                                    |
 
 | **Quantum Computing**| ![Qiskit Badge](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=for-the-badge)                                                                                                                                                              
                                                                    |
