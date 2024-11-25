@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yttasdfghjk/yttasdfghjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, I'm [yttasdfghjk](https://github.com/yttasdfghjk) 👋
+# Hi, I'm [yttasdfghjk](https://github.com/yttasdfghjk) 👋
 
 I enjoy the intersection of modern technologies and am currently contributing to diverse projects related to Data Science, Distributed Ledger Technologies and Quantum COmputing. I explore recent advances in these domains, conduct experiments, share insights, and also build side projects.
 
