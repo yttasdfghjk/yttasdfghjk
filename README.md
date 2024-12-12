@@ -89,7 +89,6 @@ Currently learning or to be categorized:
 ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=for-the-badge)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 ![KNIME Badge](https://img.shields.io/badge/KNIME-FDD800?logo=knime&logoColor=000&style=for-the-badge)
-![Kibana Badge](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge)
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge)
 ![JUnit5 Badge](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge)
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=for-the-badge)
@@ -99,7 +98,6 @@ Currently learning or to be categorized:
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
 ![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=for-the-badge)
 ![DuckDB Badge](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
 ![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=for-the-badge)
 ![Dask Badge](https://img.shields.io/badge/Dask-FC6E6B?logo=dask&logoColor=fff&style=for-the-badge)
 
