@@ -100,6 +100,19 @@ Currently learning or to be categorized:
 ![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=for-the-badge)
 ![Dask Badge](https://img.shields.io/badge/Dask-FC6E6B?logo=dask&logoColor=fff&style=for-the-badge)
 
+
+
+<br>
+<div style="width: 100%; display: flex">
+  <a>
+    <img align="center" width="52%"src="https://github-readme-stats.vercel.app/api?username=yttasdfghjk&show_icons=true&theme=dark" />
+  </a>
+  <a>
+    <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yttasdfghjk&show_icons=true&theme=dark&layout=compact" />
+  </a>
+</div>
+
+
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/)
 
